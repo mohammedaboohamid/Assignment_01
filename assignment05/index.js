@@ -19,10 +19,12 @@ console.log("my first name is"+" "+firstName+" "+ "and my last name is"+" "+last
 
 //string methods
 /*
-let name ="aboo"
+let name ="ABOO"
 console.log(name.toUpperCase());
 console.log(name.toLowerCase());
 */
+
+
 //substring
 
 /*
@@ -69,6 +71,9 @@ let fact= "my name is aboo"
 console.log(fact.split(" "));
 */
 
+
+
+/*
 let userName= prompt("enter your name")
 let firstletter =userName.slice(0,1)
 
@@ -79,7 +84,7 @@ let restOftheLetters=userName.slice(1,userName.length)
 
 //console.log( "hi"+" "+UpperCase+restOftheLetters);
 alert(`hi ${UpperCase}${restOftheLetters}`);
-
+*/
 
 
 
